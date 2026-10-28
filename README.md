@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-animado.svg" alt="Mis proyectos y programas" width="150%">
+  <img src="banner-animado.svg" alt="Mis proyectos y programas" width="250%">
 </p>
 <h1 align="center">¡Hola a todos! 🗿</h1>
 
